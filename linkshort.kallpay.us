@@ -1,6 +1,6 @@
 server {
     listen 80;
-    server_name acortador.kallpay.us;
+    server_name linkshort.kallpay.us;
 
     root /home/acortador_url/frontend/dist;
     index index.html;
